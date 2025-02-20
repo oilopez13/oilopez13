@@ -7,7 +7,7 @@
 
 🖥️ Experiencia en desarrollo de APIs, bases de datos y diseño de soluciones web eficientes. 
 
-📫 Contacto: **osvaldo.lopez@ujed.mx**  
+📫 Contacto: **olopez13mx@gmail.com**  
 </p> 
 <br>
 <h2> 🚀 Mis habilidades 🧰 </h2>
