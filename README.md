@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Osvaldo López 👨🏻‍💻 </h1> 
+<br>
+<p align="left">  
+🎓 INGENIERO EN SOFTWARE
+  
+💻 Desarrollador Backend en la Universidad Juárez del Estado de Durango (UJED).
 
-<!--
-**oilopez13/oilopez13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Experiencia en desarrollo de APIs, bases de datos y diseño de soluciones web eficientes. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contacto: **osvaldo.lopez@ujed.mx**  
+</p> 
+<br>
+<h2> 🚀 Mis habilidades 🧰 </h2>
+<p align="center">  
+  <a href="https://skillicons.dev">  
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,laravel,vue,py,django,react,bootstrap,mysql,postgres,graphql,git,github,gitlab,postman,cs&perline=6" />  
+  </a>  
+</p>
